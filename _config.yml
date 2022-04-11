@@ -9,12 +9,12 @@
 title: Applauzi by Grupo3
 
 # Your name to show in the footer
-author: Some Person
+author: Grupo3
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Tienda"
+  Tienda: "https://www.applauzi.republicatours.com/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
